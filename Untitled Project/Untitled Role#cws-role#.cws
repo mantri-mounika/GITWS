@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="0242ac12-0003-a1ef-967d-cd1a13a31b45">
+	<DocumentID>0242ac12-0003-a1ef-967d-cd1a139b9b45</DocumentID>
+	<Name>Untitled Role</Name>
+	<Description>Untitled Role</Description>
+	<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=defaultInst,o=opentext.net</CreatedBy>
+	<CreationDate>2024-08-14T04:47:22.406</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Application</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>
