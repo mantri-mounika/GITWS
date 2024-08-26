@@ -5,7 +5,7 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="0242ac12-0003-a1ef-967e-0febcbc23db8">
 	<DocumentID>0242ac12-0003-a1ef-967e-0febcab1bdb8</DocumentID>
-	<Name>Untitled Project</Name>
+	<Name>MyProject</Name>
 	<Description>Untitled Projecteee</Description>
 	<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=defaultInst,o=opentext.net</CreatedBy>
 	<CreationDate>2024-08-14T04:47:02.73</CreationDate>
@@ -25,14 +25,15 @@
 			<Notes/>
 			<BuildNumber>0</BuildNumber>
 			<GenerateModelPackage>false</GenerateModelPackage>
-			<ISVPackageFileName>My Company Untitled Project 1.0.0</ISVPackageFileName>
+			<ISVPackageFileName>My Company MyProject 1.0.0</ISVPackageFileName>
 			<ISVPackageOwner>My Company</ISVPackageOwner>
 			<PackageForRuntime>true</PackageForRuntime>
 			<PostISVLoaderInformation/>
-			<Product>Untitled Project</Product>
+			<Product>MyProject</Product>
 			<SupportedDeploymentSpaces
 				xmlns:cws="http://schemas.cordys.com/cws/1.0"
 				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
 				<cws:item>SHARED</cws:item>
 				<cws:item>SHARED</cws:item>
 			</SupportedDeploymentSpaces>
@@ -45,7 +46,7 @@
 	<SourceFolder>
 		<uri
 			id="0242ac12-0003-a1ef-967e-0febdfddbdb8"
-			path="Untitled Project"
+			path="MyProject"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -75,7 +76,7 @@
 					<Texts>
 						<uri
 							id="0242ac12-0003-a1ef-967e-0febd5c73db8"
-							path="Untitled Project/en-US_0242ac12-0003-a1ef-967e-0febd5c73db8"
+							path="MyProject/en-US_0242ac12-0003-a1ef-967e-0febd5c73db8"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -94,7 +95,7 @@
 			<Texts>
 				<uri
 					id="0242ac12-0003-a1ef-967e-0febcfe3bdb8"
-					path="Untitled Project/TranslationInformation_0242ac12-0003-a1ef-967e-0febcfe3bdb8"
+					path="MyProject/TranslationInformation_0242ac12-0003-a1ef-967e-0febcfe3bdb8"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
