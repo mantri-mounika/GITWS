@@ -6,7 +6,7 @@
 	RuntimeDocumentID="0242ac12-0003-a1ef-967e-0febcbc23db8">
 	<DocumentID>0242ac12-0003-a1ef-967e-0febcab1bdb8</DocumentID>
 	<Name>myPrj</Name>
-	<Description>Untitleddddd</Description>
+	<Description>MM</Description>
 	<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=defaultInst,o=opentext.net</CreatedBy>
 	<CreationDate>2024-08-14T04:47:02.73</CreationDate>
 	<Notes/>
@@ -33,6 +33,7 @@
 			<SupportedDeploymentSpaces
 				xmlns:cws="http://schemas.cordys.com/cws/1.0"
 				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
 				<cws:item>SHARED</cws:item>
 				<cws:item>SHARED</cws:item>
 				<cws:item>SHARED</cws:item>
